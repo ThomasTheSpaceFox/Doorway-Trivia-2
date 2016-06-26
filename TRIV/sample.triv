@@ -31,4 +31,18 @@ What is the inversion of the balanced ternary numeral "+-"?
 :awns
 2
 ::
+:multi
+:qtext
+What is:
+(2+2)*2 ?
+::
+:list
+8
+4
+2
+10
+::
+:awns
+1
+::
 :end
