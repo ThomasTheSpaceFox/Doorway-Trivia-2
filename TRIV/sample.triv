@@ -1,0 +1,34 @@
+:declare-title
+sample trivia script
+:declare-author
+Thomas Leathers
+:declare-mode
+1
+#test of commenting
+:multi
+:qtext
+If f = d and d = c and f = 1 what is c?
+::
+:list
+1
+2
+3
+4
+::
+:awns
+1
+::
+:multi
+:qtext
+What is the inversion of the balanced ternary numeral "+-"?
+::
+:list
++-
+-+
++0
+-0
+::
+:awns
+2
+::
+:end
