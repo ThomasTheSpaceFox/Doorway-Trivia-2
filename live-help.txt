@@ -1,0 +1,13 @@
+The object of Doorway Trivia 2 is to correctly awnser as many 
+questions as possible, in order to get the highest score you can.
+
+Use the Up and Down arrow keys to navigate menus and awnser lists
+Press Return to select an item. 
+
+you can spot menus from other text that one of the items will be highlighted. 
+If unsure, try pressing either the Up or Down arrow keys.
+
+On screens with no visible menu you may try pressing any key.
+(This includes this help screen, the about screen, 
+and various splash screens.)
+

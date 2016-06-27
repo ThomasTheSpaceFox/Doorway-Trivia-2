@@ -1,0 +1,47 @@
+:declare-title
+math and science 101
+:declare-author
+Thomas Leathers
+:declare-mode
+1
+#test of commenting
+:multi
+:qtext
+Is the sun a Star?
+::
+:list
+YES
+NO
+::
+:awns
+1
+::
+:multi
+:qtext
+What is:
+3^3?
+::
+:list
+28
+22
+27
+38
+40
+::
+:awns
+3
+::
+:multi
+:qtext
+What is the value of x if x=6*2+12
+::
+:list
+x=24
+x=12
+x=18
+x=20
+::
+:awns
+1
+::
+:end

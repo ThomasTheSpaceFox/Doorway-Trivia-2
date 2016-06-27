@@ -18,6 +18,11 @@ if 'trivfilepath' in globals():
 else:
 	print ("Global variable: 'trivfilepath' not detected, using default trivia script.")
 	trivfilepath = (os.path.join('TRIV', 'sample.triv'))
+if 'MENUFLG' in globals():
+	print ("Global variable: 'MENUFLG' present. following its setting.")
+else:
+	print ("Global variable: 'MENUFLG' not present. using default.")
+	MENUFLG=0
 
 
 pygame.display.init()
